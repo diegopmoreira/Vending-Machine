@@ -1,13 +1,13 @@
-##Vending-Machine
+# Vending-Machine
 
-##Summary:
+## Summary:
 
 It is a vending machine for salads, soft drinks, biscuits and chocolates. Through it you can enter credit as money or a credit voucher and debit these from the value of the products. As well as it is possible to make a withdrawal of the leftovers as credit-worth and consult the total available credit.
 As an administrator, you can manage inventory by checking the quantity of each product and entering or removing products from inventory. As well as make the change of prices of the products.
 
 
 
-##Features:
+## Features:
 
     • 1- Insert Credit: In this option a field is made available to be filled with the amount of credits being inserted in the machine. Accepting both cash and credit-worth (explanation in option 4).
       
